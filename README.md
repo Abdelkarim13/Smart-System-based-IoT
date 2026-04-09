@@ -218,5 +218,3 @@ On a **Raspberry Pi 4**, expect comfortable support for **20–50 concurrent dev
 - Shared state is protected with `threading.Lock()` for thread safety.
 - The **L298N motor driver** handles the 12V fan power; PWM duty cycle maps to Low (30%) / Medium (60%) / High (100%).
 - DHT11 read errors are caught silently and printed to the console without crashing the server.
-# Smart-System-based-IoT
-# Smart-System-based-IoT
